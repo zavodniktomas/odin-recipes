@@ -11,3 +11,18 @@ header{
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
     border-bottom: 5px solid #d4af37;
 }
+
+header h1 {
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7);
+    font-weight: bold;
+}
+
+header p {
+    font-size: 1.2rem;
+    color: #c9a961;
+    font-style: italic;
+}
